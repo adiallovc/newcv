@@ -58,21 +58,14 @@ h3 {
 }
 
 .mountainimg{
-  position: relative;
-  left: 415px;
+  width: 30%;
 }
-
 
 .airballoon {
   position: absolute;
-  top: 450px;
-  left: 250px;
-}
-
-.topcloud {
-  position: absolute;
   right: 360px;
-  top: 90px;
+  top: 70px;
+  height: 64px;
 }
 
 .firstline{
